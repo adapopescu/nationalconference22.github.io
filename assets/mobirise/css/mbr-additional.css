@@ -1949,23 +1949,28 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-tc3zuP8RSO {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-tdz69CdZnI {
+  background: #ffffff;
 }
-.cid-tc3zuP8RSO .mbr-text {
-  color: #767676;
+.cid-tdz69CdZnI .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-tc3zuP8RSO h4 {
-  text-align: center;
+.cid-tdz69CdZnI .mbr-figure {
+  margin: 0 auto;
 }
-.cid-tc3zuP8RSO p {
-  text-align: center;
+.cid-tdz69CdZnI figcaption {
+  position: relative;
 }
-.cid-tc3zuP8RSO .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-tdz69CdZnI figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-tdz69CdZnI .image-block {
+    width: 100% !important;
+  }
 }
 .cid-tc3Aq0UK9I {
   padding-top: 45px;
